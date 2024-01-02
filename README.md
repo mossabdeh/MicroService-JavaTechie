@@ -24,4 +24,4 @@ Follow the video step by step: [Link to the video](https://www.youtube.com/watch
 ---
 
 **Note to Readers:**
-If you're interested in a deeper exploration of the topics covered in this tutorial, I've written an essay that delves into the concepts and provides additional insights. You can find the essay in the repository's PDF file. [Link to the PDF](./path/to/your/file.pdf)
+If you're interested in a deeper exploration of the topics covered in this tutorial, I've written an essay that delves into the concepts and provides additional insights. You can find the essay in the repository's PDF file. [Link to the PDF](./Microservice%20Using%20Spring%20Boot%20%26%20Spring%20Cloud%202H_.pdf)
